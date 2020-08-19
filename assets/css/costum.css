@@ -1,0 +1,65 @@
+.robotolight {font-family: 'Roboto', sans-serif; font-weight: 100 ;  }
+.robotoregular {font-family: 'Roboto', sans-serif; font-weight: 300; }
+.robotomedium {font-family: 'Roboto', sans-serif; font-weight: 500; }
+.robotobold {font-family: 'Roboto', sans-serif; font-weight: 700; }
+
+.fontevensmaller {font-size:12px}
+.fontsmall {font-size:15px}
+.fontmedium {font-size:18px}
+.fontbig {font-size:20px}
+.fontextrabig {font-size:25px}
+
+.fontcolor {color:#1d5791 !important;}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -5000;
+}
+
+.thumbnailmargin {
+	margin-bottom:5px;
+}
+
+.btn-primary2 {
+  color: #ffffff;
+  background-color: #1d5791;
+  border-color: #1d5791;
+}
+
+.btn.focus {
+  color: #abc80c;
+  text-decoration: none;
+}
+
+.container2 {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+ }
+
+ .navbar-admin {
+     position: fixed;
+     top: 0;
+     width: 100%;
+     height: auto;
+     min-height: auto;
+ }
+
+ .navbar-admin .navbar-brand {
+     height: auto;
+     padding: 15px 5px;
+ }
+
+ footer a {
+     color: #1d5791;
+ }
+
+ footer a:hover {
+     color: #1d5791;
+     text-decoration: underline;
+ }

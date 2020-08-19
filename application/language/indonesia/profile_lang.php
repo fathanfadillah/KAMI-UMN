@@ -1,0 +1,34 @@
+<?php
+$lang['profile_my_profile'] = "Profil Saya";
+$lang['profile_fullname'] = "Nama Lengkap";
+$lang['profile_gender'] = "Jenis Kelamin";
+$lang['profile_faculty'] = "Fakultas";
+$lang['profile_subject_area'] = "Program Studi";
+$lang['profile_student_id'] = "Nomor Induk Mahasiswa";
+$lang['profile_year_enroll_graduate'] = "Tahun Masuk - Lulus";
+$lang['profile_email'] = "E-Mail";
+$lang['profile_address'] = "Alamat";
+$lang['profile_city'] = "Kota";
+$lang['profile_state'] = "Provinsi";
+$lang['profile_phone_home'] = "Kontak Rumah";
+$lang['profile_phone_mobile'] = "Kontak Handphone";
+$lang['profile_edit_header'] = "Ubah Profil Anda";
+$lang['profile_edit_button'] = "Ubah Profil";
+$lang['profile_gender_male'] = "Laki-laki";
+$lang['profile_gender_female'] = "Perempuan";
+$lang['profile_tab_profile'] = "Profil Saya";
+$lang['profile_tab_work_resume'] = "Riwayat Kerja";
+$lang['profile_self_profile'] = "Profil Diri";
+$lang['profile_work_resume'] = "Riwayat Kerja";
+$lang['profile_study_preparation'] = "Riwayat Studi";
+$lang['profile_subject_area'] = "Program Studi";
+$lang['profile_by_faculty'] = "Profil Alumni Berdasarkan Fakultas";
+$lang['profile_my_data'] = "Data Diri";
+$lang['profiles_message_please_update_work_resume_or_study_preparation'] =
+"Tolong berikan informasi terbaru anda mengenai Riwayat Kerja ataupun Riwayat Studi. Anda dapat men-klik tombol 'Simpan Perubahan' apabila tidak ada perubahan baru.";
+$lang['profile_education'] = "Riwayat Studi";
+$lang['profile_alumni_profiles'] = "Profil Alumni";
+$lang['profile_enroll_year'] = "Angkatan";
+$lang['profile_working_at'] = "Bekerja di";
+$lang['profile_working_as'] = "sebagai";
+$lang['profile_all_profile'] = "Semua Profil";
